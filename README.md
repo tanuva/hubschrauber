@@ -1,7 +1,7 @@
 # Hubschrauber
 My first game(tm).
 
-Heavily "inspired" by the '80s game [Choplifter](https://en.wikipedia.org/wiki/Choplifter). Its not pretty, but its playable. And could use lots of juice at some point.
+Heavily "inspired" by the '80s game [Choplifter](https://en.wikipedia.org/wiki/Choplifter). It's not pretty, but it's playable. And could use lots of juice at some point.
 
 This really is about building a working game mechanic, a few levels and menus and make it into a complete package. This way I can pretend I made a game before. :)
 
