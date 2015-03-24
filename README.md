@@ -1,7 +1,7 @@
 # Hubschrauber
 My first game(tm).
 
-Heavily "inspired" by the '80s game [Choplifter](https://en.wikipedia.org/wiki/Choplifter). It's not pretty, but it's playable. And could use lots of juice at some point.
+Heavily "inspired" by the '80s game [Choplifter](https://en.wikipedia.org/wiki/Choplifter). It's not pretty, but it's playable. And could use lots of juice at some point. [Try the Unity Web Player version](https://nightsoul.org/files/Hubschrauber-0.1/Hubschrauber-0.1.html) or [download an App Bundle](https://nightsoul.org/files/Hubschrauber-0.1.dmg).
 
 ![Screenshot of Hubschrauber's second level.](https://github.com/tanuva/hubschrauber/blob/master/Screenshots/hubschrauber-lvl2.png)
 
